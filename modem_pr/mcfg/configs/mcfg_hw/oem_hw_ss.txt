@@ -1,0 +1,1 @@
+mcfg_hw/generic/common/Kaanapali/STANDALONE/LA/SS/mcfg_hw.mbn
